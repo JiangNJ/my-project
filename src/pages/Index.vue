@@ -247,17 +247,15 @@
 	border-radius: 1px;
 	width: 70px;
 	height: 25px;
-	padding: 2px;
-	color: #080808
+	padding: 2px
 }
 
 .button{
 	text-decoration: none;
 	padding: 2px;
-	colou: #080808
 }
 .button:hover {
-	color: #fff;
+	color: red;
 }
 .index-wrap{
 	width: 270px;
